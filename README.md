@@ -1,2 +1,2 @@
-# LInearAlgebra_DynamicProgramming_ReinforcementLearning
+# LInear Algebra_Dynamic Programming_Reinforcement Learning
 Prescriptive, Optimization, AI
